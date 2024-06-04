@@ -1,0 +1,98 @@
+.foto1 {
+    background-image: url(./images-paris/paris_01.jpeg);
+    background-size: cover;
+    height: 280px;
+    width: 200PX;
+}
+
+.foto2 {
+    background-image: url(./images-paris/paris_02.jpeg);
+    background-size: cover;
+    height: 280px;
+    width: 200PX;
+}
+
+.foto3 {
+    background-image: url(./images-paris/paris_03.jpeg);
+    background-size: cover;
+    height: 280px;
+    width: 200PX;
+}
+
+.foto4 {
+    background-image: url(./images-paris/paris_04.jpeg);
+    background-size: cover;
+    height: 280px;
+    width: 200PX;
+}
+
+.foto5 {
+    background-image: url(./images-paris/berlin_01.jpeg);
+    background-size: cover;
+    height: 280px;
+    width: 200PX;
+}
+
+.foto6 {
+    background-image: url(./images-paris/berlin_02.jpeg);
+    background-size: cover;
+    height: 280px;
+    width: 200PX;
+}
+
+.foto7 {
+    background-image: url(./images-paris/berlin_03.jpeg);
+    background-size: cover;
+    height: 280px;
+    width: 200PX;;
+}
+
+.foto8 {
+    background-image: url(./images-paris/berlin_04.jpeg);
+    background-size: cover;
+    height: 280px;
+    width: 200px;
+    background-position: 50%;
+}
+
+#STEVE {
+    width: 220px;
+    height: 30px;
+    background-image: url(./images-paris/logo.png);
+    background-repeat: no-repeat;
+    
+}
+
+#menu {
+    background-image: url(./images-paris/hamburger-icon.png);
+    width: 60px;
+    background-repeat: no-repeat;
+}
+
+#fb {
+    background-image: url(./images-paris/social_facebook.png);
+    background-repeat: no-repeat;
+    width: 32px;
+    height: 32px;
+}
+
+#ins {
+    background-image: url(./images-paris/social_instagram.png);
+    background-repeat: no-repeat;
+    width: 32px;
+    height: 32px;
+}
+
+#x {
+    background-image: url(./images-paris/social_twitter.png);
+    background-repeat: no-repeat;
+    width: 32px;
+    height: 32px;
+}
+
+#you {
+    background-image: url(./images-paris/social_youtube.png);
+    background-repeat: no-repeat;
+    width: 32px;
+    height: 32px;
+}

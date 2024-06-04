@@ -1,0 +1,82 @@
+img {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    
+    
+}
+.box_padre {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 550px;
+    
+}
+
+.box_padre > div {
+    width: 350px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px rgb(212, 212, 212);
+}
+
+.top {
+    text-align: center;
+    background-color: rgb(73, 140, 240);
+    color: rgb(255, 255, 255);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.botton {
+    height: 370px;
+    overflow-y: scroll;
+}
+
+.minipadre {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    border-bottom: 1px solid rgb(199, 199, 199);
+}
+
+input {
+    border-radius: 20px;
+    background-color: rgb(81, 81, 180);
+    width: 275px;
+    height: 26px;
+    padding: 3px;
+    border: 0px;
+    
+}
+
+input::placeholder {
+    color: rgba(255, 255, 255, 0.685);
+    padding-left: 6px;
+}
+
+.minipadre>div {
+    padding-top: 6px;
+}
+
+
+* {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+p {
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.836);
+}
+
+.botton::-webkit-scrollbar {
+    width: 10px;
+}
+.botton::-webkit-scrollbar-thumb {
+    background: rgb(99, 99, 99);
+    border-radius: 20px;
+}
+
+.botton::-webkit-scrollbar-thumb:hover {
+    background: rgba(133, 133, 133, 0.952);
+}
